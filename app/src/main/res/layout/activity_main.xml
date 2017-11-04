@@ -23,7 +23,7 @@
         android:ems="10"
         android:gravity="end"
         android:inputType="number"
-        android:text="987"
+        android:text="98"
         android:textColor="@color/background_light"
         android:textSize="36sp"
         android:textStyle="bold" />
